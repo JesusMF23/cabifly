@@ -1,0 +1,7 @@
+flask
+pymongo
+kafka-python
+python-dotenv
+requests
+numpy
+bson
